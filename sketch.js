@@ -82,7 +82,7 @@ var select_sprites = Math.round(random(1,3));
   //   }else {
   //     createRed();
   //   }
-  }
+//   }
 
 
 
